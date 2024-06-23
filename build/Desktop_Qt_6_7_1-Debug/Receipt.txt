@@ -1,0 +1,46 @@
+Receipt Number : 1804289383
+Customer Name : subbu
+Card Information : 5489
+-------------------------------------------------------------
+Items 		 Price
+Coke		100
+Sprite		75
+Total : 	175
+
+
+Receipt Number : 846930886
+Customer Name : pumfuu
+Card Information : 1254
+-------------------------------------------------------------
+Items 		 Price
+Pepsi		80
+Pepsi		80
+Coke		100
+Fanta		70
+Pepsi		80
+Total : 	250
+
+
+Receipt Number : 1804289383
+Customer Name : messi don
+Card Information : 671
+-------------------------------------------------------------
+Items 		 Price
+Coke		100
+Fanta		70
+Total : 	170
+
+
+Receipt Number : 846930886
+Customer Name : hero lal
+Card Information : 890
+-------------------------------------------------------------
+Items 		 Price
+Sprite		75
+Fanta		70
+Sprite		75
+Sprite		75
+Pepsi		80
+Total : 	230
+
+

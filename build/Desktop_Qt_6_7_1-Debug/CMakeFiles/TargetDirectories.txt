@@ -1,0 +1,9 @@
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/SubbuStore.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/edit_cache.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/list_install_components.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/install.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/install/local.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/install/strip.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/SubbuStore_autogen_timestamp_deps.dir
+/home/subbu/suvesh/Qt/Widget_App/SubbuStore/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/SubbuStore_autogen.dir
